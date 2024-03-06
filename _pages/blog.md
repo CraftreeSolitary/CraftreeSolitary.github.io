@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /blog/
+permalink: [/blog/](https://craftreesolitary.github.io/quarto-website/)
 title: blog
 nav: true
 nav_order: 1
