@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://CraftreeSolitary.github.io/sitemap.xml
