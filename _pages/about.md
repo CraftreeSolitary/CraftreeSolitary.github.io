@@ -13,13 +13,13 @@ profile:
     <span style="font-size: 0.75em;"><em>(from "The Man with the Golden Gun")</em></span>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
 Hello! I am an undergraduate student at IIT Gandhinagar (Class of 2027) pursuing B.Tech. in Artificial Intelligence. 
 
-My fascination with Probability and Statistics, sparkled by [Professor Shanmuga](https://people.iitgn.ac.in/~shanmuga/)'s class during my second semester led me to delve deeper into Machine Learning. I am particularly intriguied by the Probabilistic Approaches. I am also interested in Computer Vision and Deep Learning.
+My fascination with Probability and Statistics, sparkled by [Professor Shanmuga](https://people.iitgn.ac.in/~shanmuga/)'s class during my second semester led me to delve deeper into Machine Learning. I am particularly intrigued by the Probabilistic Approaches. I am also interested in Computer Vision and Deep Learning.
 
 To complement my theoretical knowledge, I'm currently working on improving my competitive programming skills and mastering the MERN Stack for web development.
 
