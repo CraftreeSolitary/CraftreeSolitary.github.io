@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Made it to Semester-1's Dean's List! ([Letter of Appreciation](assets/pdf/deans_list_sem1_2023-24.pdf))
+Made it to Semester-1's Dean's List! ([Letter of Appreciation](../assets/pdf/deans_list_sem1_2023-24.pdf))
 
